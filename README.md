@@ -63,7 +63,7 @@ Jupyter
 
 ## 📈 Progress
 
-- [ ] Neural Network Fundamentals
+- [✅] Neural Network Fundamentals
 - [ ] ANN
 - [ ] CNN
 - [ ] RNN
