@@ -1,57 +1,75 @@
-# Deep Learning Roadmap 
+# 🧠 Deep Learning: From Scratch to Advanced
 
+A hands-on journey through Deep Learning, starting
+from mathematical foundations and NumPy implementations
+to PyTorch, CNNs, RNNs, Attention and Transformers.
 
-                DEEP LEARNING
-                      │
-        ┌─────────────┴─────────────┐
-        │                           │
-   FUNDAMENTALS                  PYTORCH
-        │                           │
-   Neuron                       Tensor
-   Weights                      Dataset
-   Bias                         DataLoader
-   Activation                   nn.Module
-   Forward                      Training
-   Loss                         Autograd
-   Gradient                     Optimizer
-   Backprop
-        │
-        ↓
-       ANN
-        │
-        ├── Overfitting
-        ├── Dropout
-        ├── Regularization
-        ├── BatchNorm
-        └── Optimizers
-        │
-        ↓
-       CNN
-        │
-        ├── Convolution
-        ├── Filters
-        ├── Feature Maps
-        ├── Pooling
-        └── Transfer Learning
-        │
-        ↓
-      RNN/LSTM
-        │
-        ├── Sequence
-        ├── Hidden State
-        ├── LSTM
-        └── GRU
-        │
-        ↓
-     ATTENTION
-        │
-        ↓
-    TRANSFORMERS
-        │
-        ├── Self Attention
-        ├── Multi-Head Attention
-        ├── Positional Encoding
-        └── Transformer Block
-        │
-        ↓
-    REAL PROJECT
+## 🚀 Learning Path
+
+Neural Networks
+      ↓
+ANN
+      ↓
+CNN
+      ↓
+RNN
+      ↓
+LSTM / GRU
+      ↓
+Attention
+      ↓
+Transformers
+      ↓
+Advanced Projects
+
+## 📚 Topics Covered
+
+- Neural Networks
+- Activation Functions
+- Loss Functions
+- Gradient Descent
+- Backpropagation
+- ANN
+- CNN
+- RNN
+- LSTM
+- GRU
+- Attention
+- Transformers
+- Autoencoders
+- Transfer Learning
+- Regularization
+- Model Evaluation
+
+## 🛠️ Tech Stack
+
+Python
+NumPy
+Pandas
+Matplotlib
+Scikit-learn
+PyTorch
+Torchvision
+Jupyter
+
+## 🎯 Projects
+
+| Project | Architecture | Status |
+|---|---|---|
+| Image Classifier | CNN | 🔄 |
+| Sentiment Analysis | LSTM | 🔄 |
+| Anomaly Detection | Autoencoder | 🔄 |
+| Final Project | Transformer/DL | 🔄 |
+
+## 📈 Progress
+
+- [ ] Neural Network Fundamentals
+- [ ] ANN
+- [ ] CNN
+- [ ] RNN
+- [ ] LSTM
+- [ ] GRU
+- [ ] Attention
+- [ ] Transformers
+- [ ] Autoencoders
+- [ ] Final Projects
