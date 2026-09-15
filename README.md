@@ -2,7 +2,7 @@
 
 A hands-on journey through Deep Learning, starting
 from mathematical foundations and NumPy implementations
-to PyTorch, CNNs, RNNs, Attention and Transformers.
+to PyTorch, CNNs, **RNNs**, Attention and Transformers.
 
 ## 🚀 Learning Path
 
