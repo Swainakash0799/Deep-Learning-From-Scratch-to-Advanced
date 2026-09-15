@@ -64,7 +64,7 @@ Jupyter
 ## 📈 Progress
 
 - [✅] Neural Network Fundamentals
-- [ ] ANN
+- [✅] ANN
 - [ ] CNN
 - [ ] RNN
 - [ ] LSTM
