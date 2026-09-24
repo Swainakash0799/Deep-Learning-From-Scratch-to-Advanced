@@ -63,9 +63,10 @@ Jupyter
 
 ## 📈 Progress
 
-- [✅] Neural Network Fundamentals
-- [✅] ANN
-- [ ] CNN
+- [x] Phase 1 - Neural Network Fundamentals
+- [x] Phase 2 - ANN
+- [x] Phase 3 - CNN
+- [x] Phase 4 - RNN Architecture
 - [ ] RNN
 - [ ] LSTM
 - [ ] GRU
