@@ -1,10 +1,10 @@
-# 🧠 Deep Learning: From Scratch to Advanced
+# Deep Learning: From Scratch to Advanced
 
 A hands-on journey through Deep Learning, starting
 from mathematical foundations and NumPy implementations
 to PyTorch, CNNs, **RNNs**, Attention and Transformers.
 
-## 🚀 Learning Path
+## Learning Path
 
 Neural Networks
       ↓
@@ -22,7 +22,7 @@ Transformers
       ↓
 Advanced Projects
 
-## 📚 Topics Covered
+## Topics Covered
 
 - Neural Networks
 - Activation Functions
@@ -41,7 +41,7 @@ Advanced Projects
 - Regularization
 - Model Evaluation
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 Python
 NumPy
@@ -52,7 +52,7 @@ PyTorch
 Torchvision
 Jupyter
 
-## 🎯 Projects
+## Projects
 
 | Project | Architecture | Status |
 |---|---|---|
@@ -61,7 +61,7 @@ Jupyter
 | Anomaly Detection | Autoencoder | 🔄 |
 | Final Project | Transformer/DL | 🔄 |
 
-## 📈 Progress
+## Progress
 
 - [x] Phase 1 - Neural Network Fundamentals
 - [x] Phase 2 - ANN
