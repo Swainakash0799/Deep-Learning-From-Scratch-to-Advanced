@@ -67,10 +67,10 @@ Jupyter
 - [x] Phase 2 - ANN
 - [x] Phase 3 - CNN
 - [x] Phase 4 - RNN Architecture
-- [ ] RNN
-- [ ] LSTM
-- [ ] GRU
-- [ ] Attention
-- [ ] Transformers
-- [ ] Autoencoders
-- [ ] Final Projects
+- [ ] Phase 5 - RNN
+- [ ] Phase 6 - LSTM
+- [ ] Phase 7 - GRU
+- [ ] Phase 8 - Attention
+- [ ] Phase 9 - Transformers
+- [ ] Phase 10 - Autoencoders
+- [ ] Phase 11 - Final Projects
