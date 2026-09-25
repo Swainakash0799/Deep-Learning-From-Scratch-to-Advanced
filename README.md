@@ -67,8 +67,8 @@ Jupyter
 - [x] Phase 2 - ANN
 - [x] Phase 3 - CNN
 - [x] Phase 4 - RNN Architecture
-- [ ] Phase 5 - RNN
-- [ ] Phase 6 - LSTM
+- [x] Phase 5 - RNN
+- [x] Phase 6 - LSTM
 - [ ] Phase 7 - GRU
 - [ ] Phase 8 - Attention
 - [ ] Phase 9 - Transformers
