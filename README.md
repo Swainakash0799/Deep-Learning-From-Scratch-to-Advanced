@@ -70,7 +70,7 @@ Jupyter
 - [x] Phase 5 - RNN
 - [x] Phase 6 - LSTM
 - [ ] Phase 7 - GRU
-- [ ] Phase 8 - Attention
-- [ ] Phase 9 - Transformers
+- [x] Phase 8 - Attention
+- [x] Phase 9 - Transformers
 - [ ] Phase 10 - Autoencoders
 - [ ] Phase 11 - Final Projects
