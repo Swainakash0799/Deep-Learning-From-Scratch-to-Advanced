@@ -72,5 +72,5 @@ Jupyter
 - [ ] Phase 7 - GRU
 - [x] Phase 8 - Attention
 - [x] Phase 9 - Transformers
-- [ ] Phase 10 - Autoencoders
+- [x] Phase 10 - Autoencoders
 - [ ] Phase 11 - Final Projects
