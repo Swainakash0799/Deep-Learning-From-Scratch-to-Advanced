@@ -2,25 +2,24 @@
 
 A hands-on journey through Deep Learning, starting
 from mathematical foundations and NumPy implementations
-to PyTorch, CNNs, **RNNs**, Attention and Transformers.
+to TensorFlow, PyTorch, CNNs, **RNNs**, Attention and **Transformers**.
 
 ## Learning Path
 
 Neural Networks
       ↓
-ANN
+     ANN
       ↓
-CNN
+     CNN
       ↓
-RNN
+     RNN
       ↓
-LSTM / GRU
+  LSTM / GRU
       ↓
-Attention
+   Attention
       ↓
-Transformers
-      ↓
-Advanced Projects
+  Transformers
+
 
 ## Topics Covered
 
