@@ -7,17 +7,23 @@ to TensorFlow, PyTorch, CNNs, **RNNs**, Attention and **Transformers**.
 ## Learning Path
 
 Neural Networks
-      ↓
+      │
+      ▼
      ANN
-      ↓
+      │
+      ▼
      CNN
-      ↓
+      │
+      ▼
      RNN
-      ↓
+      │
+      ▼
   LSTM / GRU
-      ↓
-   Attention
-      ↓
+      │
+      ▼
+ Attention
+     │
+     ▼
   Transformers
 
 
