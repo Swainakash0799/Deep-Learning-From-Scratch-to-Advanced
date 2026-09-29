@@ -4,8 +4,10 @@ A hands-on journey through Deep Learning, starting
 from mathematical foundations and NumPy implementations
 to TensorFlow, PyTorch, CNNs, **RNNs**, Attention and **Transformers**.
 
-## Learning Path
+---
 
+## Learning Path
+```text
 Neural Networks
       │
       ▼
@@ -25,7 +27,9 @@ Neural Networks
      │
      ▼
   Transformers
+```
 
+---
 
 ## Topics Covered
 
@@ -45,6 +49,8 @@ Neural Networks
 - Transfer Learning
 - Regularization
 - Model Evaluation
+  
+---
 
 ## Tech Stack
 
@@ -57,6 +63,8 @@ PyTorch
 Torchvision
 Jupyter
 
+---
+
 ## Projects
 
 | Project | Architecture | Status |
@@ -65,6 +73,8 @@ Jupyter
 | Sentiment Analysis | LSTM | 🔄 |
 | Anomaly Detection | Autoencoder | 🔄 |
 | Final Project | Transformer/DL | 🔄 |
+
+---
 
 ## Progress
 
