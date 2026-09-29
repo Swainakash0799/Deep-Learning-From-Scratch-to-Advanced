@@ -73,4 +73,3 @@ Jupyter
 - [x] Phase 8 - Attention
 - [x] Phase 9 - Transformers
 - [x] Phase 10 - Autoencoders
-- [ ] Phase 11 - Final Projects
