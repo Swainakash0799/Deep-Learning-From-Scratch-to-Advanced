@@ -69,7 +69,7 @@ Jupyter
 
 | Project | Architecture | Status |
 |---|---|---|
-| Image Classifier | CNN | 🔄 |
+| Image Classifier | CNN | ✅ |
 | Sentiment Analysis | LSTM | 🔄 |
 | Anomaly Detection | Autoencoder | 🔄 |
 | Final Project | Transformer/DL | 🔄 |
