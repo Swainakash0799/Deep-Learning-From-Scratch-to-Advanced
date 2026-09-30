@@ -84,7 +84,7 @@ Jupyter
 - [x] Phase 4 - RNN Architecture
 - [x] Phase 5 - RNN
 - [x] Phase 6 - LSTM
-- [ ] Phase 7 - GRU
+- [x] Phase 7 - GRU
 - [x] Phase 8 - Attention
 - [x] Phase 9 - Transformers
 - [x] Phase 10 - Autoencoders
