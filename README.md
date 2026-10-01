@@ -86,5 +86,6 @@ Jupyter
 - [x] Phase 6 - LSTM
 - [x] Phase 7 - GRU
 - [x] Phase 8 - Attention
-- [x] Phase 9 - Transformers
-- [x] Phase 10 - Autoencoders
+- [x] Phase 9 - Encoders and Decoders
+- [x] Phase 10 - Transformers
+- [x] Phase 11 - Autoencoders
