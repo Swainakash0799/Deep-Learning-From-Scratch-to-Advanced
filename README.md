@@ -46,7 +46,7 @@ Neural Networks
 - Attention
 - Transformers
 - Autoencoders
-- Transfer Learning
+- Transfer Learning(Fine Tuning, Feature Extraction, Pre-trained Models)
 - Regularization
 - Model Evaluation
   
