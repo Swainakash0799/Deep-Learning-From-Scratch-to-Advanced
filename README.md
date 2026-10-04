@@ -62,7 +62,7 @@ Scikit-learn
 PyTorch
 Torchvision
 Jupyter
-
+Colab
 ---
 
 ## Projects
