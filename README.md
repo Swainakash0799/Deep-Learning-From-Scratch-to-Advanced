@@ -89,3 +89,4 @@ Colab
 - [x] Phase 9 - Encoders and Decoders
 - [x] Phase 10 - Transformers
 - [x] Phase 11 - Autoencoders
+- [ ] Phase 12 - Computer Vision
