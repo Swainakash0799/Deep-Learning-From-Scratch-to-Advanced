@@ -90,3 +90,4 @@ Colab
 - [x] Phase 10 - Transformers
 - [x] Phase 11 - Autoencoders
 - [ ] Phase 12 - Computer Vision
+- [ ] Phase 13 - Transfer Learning(Fine Tuning, Feature Extraction, Pre-trained Models)
